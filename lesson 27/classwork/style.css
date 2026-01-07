@@ -1,0 +1,23 @@
+h1 {
+    color: red;
+    background-color: green;
+    text-align: right;
+    border: solid black;
+    font-size: 55px;
+}
+
+p {
+    color: blue;
+    background-color: red;
+    text-align: center;
+    border: solid green;
+    font-size: 25px;
+}
+
+button {
+    color: pink;
+    background-color: aqua;
+    text-align: left;
+    border: solid purple;
+    font-size: 40px;
+}

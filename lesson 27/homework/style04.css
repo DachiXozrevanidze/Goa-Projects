@@ -1,0 +1,23 @@
+p {
+    color: red;
+    background-color: green;
+    font-size: 40px;
+    border: pink;
+    text-align: center;
+}
+
+button {
+    color: blue;
+    background-color: red;
+    font-size: 20px;
+    border: green;
+    text-align: left;
+}
+
+h4 {
+    color: pink;
+    background-color: yellowgreen;
+    font-size: 70px;
+    border: black;
+    text-align: right;
+}
