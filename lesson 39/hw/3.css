@@ -1,0 +1,17 @@
+.upper {
+  text-transform: uppercase;
+}
+
+.lower {
+  text-transform: lowercase;
+}
+
+.cap {
+  text-transform: capitalize;
+}
+
+p {
+  font-size: 1.4em;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+}
